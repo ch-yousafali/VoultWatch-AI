@@ -1,0 +1,13 @@
+body {
+  background: #0A0A0A !important;
+  color: #F0F0F0 !important;
+}
+
+* {
+  color: inherit;
+}
+
+.leaflet-container {
+  background: #111 !important;
+  color: #F0F0F0 !important;
+}
